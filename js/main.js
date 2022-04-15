@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let guessedWords = [[]];
   let availableSpace = 1;
 
-  const word = "dairy";
+  const word = "hause";
   let guessedWordCount = 0;
 
   function createSquares(){
